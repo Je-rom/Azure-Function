@@ -16,4 +16,5 @@ namespace FunctionApp1
 
         public DbSet<Product> Products { get; set; }
     }
+
 }

@@ -40,3 +40,6 @@ namespace FunctionApp1
         }
     }
 }
+
+
+/*"Server=DESKTOP-PTV417N;Database=AzDB;Trusted_Connection=True;TrustServerCertificate=True;"*/
